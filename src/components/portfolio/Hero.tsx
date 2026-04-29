@@ -56,7 +56,7 @@ export function Hero() {
           </div>
 
           <h1 className="font-display text-5xl font-bold leading-[1.05] sm:text-6xl lg:text-7xl">
-            Hi, I'm <span className="gradient-text">Eng Mengchhorng</span>
+            Hi, I'm <span className="gradient-text">Nak Fake</span>
           </h1>
 
           <div className="flex items-center gap-2 text-xl font-medium text-muted-foreground sm:text-2xl">
