@@ -76,7 +76,7 @@ export function Navbar() {
             <span className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-primary text-primary-foreground shadow-glow">
               EM
             </span>
-            <span className="hidden sm:inline gradient-text">Nak Thork</span>
+            <span className="hidden sm:inline gradient-text">Eng Mengchhorng</span>
           </button>
 
           <ul className="hidden items-center gap-1 md:flex">
